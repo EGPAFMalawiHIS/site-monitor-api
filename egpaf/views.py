@@ -1,8 +1,4 @@
-# Author name       :   Joel Kumwenda
-# Phone             :   +8615922015417
-# Email             :   joel@rombot.com
-# Date Created      :   2018-07-13
-# Last modified     :   2018-07-13
+
 
 from __future__ import unicode_literals
 

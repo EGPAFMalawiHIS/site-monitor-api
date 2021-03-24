@@ -129,7 +129,7 @@ regex==2019.8.19
 request==1.0.2
 requests==2.22.0
 requests-oauthlib==1.0.0
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.2.1
 scikit-image==0.15.0
 scikit-learn==0.21.1

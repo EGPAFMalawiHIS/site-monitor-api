@@ -122,7 +122,7 @@ python3-openid==3.1.0
 pytube==9.5.1
 pytz==2018.5
 PyWavelets==1.0.3
-PyYAML==5.1.2
+PyYAML==5.4
 query-string==1.0.2
 redis==3.3.11
 regex==2019.8.19

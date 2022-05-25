@@ -110,7 +110,7 @@ pydot==1.2.4
 pyglet==1.4.4
 Pygments==2.4.2
 PyInquirer==1.0.3
-PyJWT==1.6.4
+PyJWT==2.4.0
 pyparsing==2.2.2
 pyserial==3.4
 PySocks==1.6.8
